@@ -1,0 +1,4 @@
+
+"squid:ClassVariableVisibilityCheck"UMake mTextView a static final constant or non-public and provide accessors if needed.(øîÊ¥ıÿÿÿÿ8öÀ§Š,
+vsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "vh".(Ö“ƒ³8öÀ§Š,
+"squid:ClassVariableVisibilityCheck"UMake mCardView a static final constant or non-public and provide accessors if needed.(ÃÔ†ùÿÿÿÿ8öÀ§Š,

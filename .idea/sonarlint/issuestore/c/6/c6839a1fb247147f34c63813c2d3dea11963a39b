@@ -1,0 +1,11 @@
+
+Ksquid:S1905"*Remove this unnecessary cast to "Toolbar".(ªü–ıÿÿÿÿ8ƒÙµŠ,
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¼œóÛüÿÿÿÿ8¼Ç°Š,
+Ssquid:S1197"8Move the array designator from the variable to the type.(›¹Í8¼Ç°Š,
+Msquid:S1905",Remove this unnecessary cast to "ViewPager".(Ô Ò‹úÿÿÿÿ8ƒÙµŠ,
+\squid:S1854";Remove this useless assignment to local variable "toolbar".(ªü–ıÿÿÿÿ8ƒÙµŠ,
+Hsquid:S1905",Remove this unnecessary cast to "TabLayout".(¤¡Ë†8ƒÙµŠ,
+Wsquid:UselessImportCheck".Remove this unused import 'android.view.Menu'.(£¯Ò…8·®Š,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±8¼Ç°Š,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¼œóÛüÿÿÿÿ8¼Ç°Š,
+Msquid:S1481",Remove this unused "toolbar" local variable.(ªü–ıÿÿÿÿ8ƒÙµŠ,
